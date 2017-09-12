@@ -8,6 +8,7 @@
 - [x] 2. Выполнить инструкцию учебного материала
 - [x] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
  
+ ```
 $ export GITHUB_USERNAME=GolubDobra
 
 $ export GIST_TOKEN=390e4d6a8a0a323d04d567f76e88e6316755b42a
@@ -41,3 +42,4 @@ $ cp tasks/lab${LAB_NUMBER}/README.md reports/lab${LAB_NUMBER}/REPORT.md
 $ cd reports/lab${LAB_NUMBER}
 
 $ edit REPORT.md
+```
