@@ -11,7 +11,7 @@
   ВЫПОЛНЯЯ ИНСТРУКЦИЮ УЧЕБНОГО МАТЕРИАЛА: 
  
  ```
-$ export GITHUB_USERNAME=GolubDobra    // добавляем переменную в среду окружения
+$ export GITHUB_USERNAME=GolubDobra    # добавляем переменную в среду окружения
 
 $ export GIST_TOKEN=390e4d6a8a0a323d04d567f76e88e6316755b42a      // добавляем переменную в среду окружения
 
